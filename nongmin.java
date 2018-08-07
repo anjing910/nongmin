@@ -11,4 +11,5 @@ are you riding
 say you never ever leave from beside me
 cause i want ya and i need ya
 and i am down for you always
->>>>>>> bcc1d7fa55db3650fbf34926ca26158a800d8069
+bcc1d7fa55db3650fbf34926ca26158a800d8069
+20180807hzqupdatetest
